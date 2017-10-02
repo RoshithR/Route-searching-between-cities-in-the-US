@@ -1,4 +1,6 @@
-#Aim : Finding the optimal solution for a given board.
+#Author: Harika Putti
+
+#Aim : Finding the optimal solution for 15 puzzle solver given a board.
 #
 #First we get the input file and read the file into a list of lists called initial
 #board.
